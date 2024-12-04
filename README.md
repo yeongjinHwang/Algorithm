@@ -1,2 +1,3 @@
 # Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+백준 실버4이상 차근차근 다시 풀기
+(기존 풀던 백준 계정 없애고 다시)
